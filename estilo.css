@@ -9,11 +9,11 @@ body{
 
 }
 .cabecalho {
-     display: flex; 
-  justify-content: space-between; 
-  align-items: center;
+display: flex; 
+justify-content: space-between; 
+align-items: center;
 padding: 15px 25px;
-background-color: #0228ff;
+background-color: #0026ff;
 }
 
 .cartao {
