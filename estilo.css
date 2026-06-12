@@ -5,7 +5,7 @@
 
 }
 body{
-    background-color: rgb(186, 33, 33);
+    background-color: rgb(0, 0, 0);
 
 }
 .cabecalho {
@@ -13,7 +13,7 @@ body{
   justify-content: space-between; 
   align-items: center;
 padding: 15px 25px;
-background-color: #000000;
+background-color: #0228ff;
 }
 
 .cartao {
@@ -28,7 +28,7 @@ body {
   display: flex; 
   flex-direction: column; 
   min-height: 100vh; 
-  background-color: #ff0000;
+  background-color: #622b09;
 } 
 main { 
   flex: 1; 
@@ -37,7 +37,7 @@ main {
   align-items: center;
 } 
 .cabecalho-link { 
-  color: #3d7f7f; 
+  color: #012c2c; 
   text-decoration: none; 
 } 
 h1 { 
@@ -45,9 +45,9 @@ h1 {
   font-size: 24px; 
 } 
 footer { 
-  background-color: #7e3e1c; 
+  background-color: #534207; 
   padding: 15px 25px; 
-  color: #099204; 
+  color: #053903; 
 } 
 .cartao-interno { 
   position: relative; 
@@ -61,7 +61,7 @@ footer {
 .cartao-verso { 
   position: absolute; 
   border-radius: 12px; 
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
+  box-shadow: 0 6px 12px rgba(255, 0, 0, 0.15); 
   backface-visibility: hidden; 
 } 
 .cartao-verso { 
