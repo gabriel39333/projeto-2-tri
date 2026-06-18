@@ -13,7 +13,7 @@ display: flex;
 justify-content: space-between; 
 align-items: center;
 padding: 15px 25px;
-background-color: #0026ff;
+background-color: #ff5900;
 }
 
 .cartao {
@@ -29,7 +29,7 @@ body {
   display: flex; 
   flex-direction: column; 
   min-height: 100vh; 
-  background-color: #622b09;
+  background-color: #9c0101;
 } 
 main { 
   flex: 1; 
